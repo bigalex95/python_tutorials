@@ -1,1 +1,0 @@
-You can use test your learned material in w3school site or go to this [link](https://www.w3schools.com/python/pandas/pandas_quiz.asp) or to check more examples go to this [link](https://www.w3schools.com/python/pandas/pandas_exercises.asp)
